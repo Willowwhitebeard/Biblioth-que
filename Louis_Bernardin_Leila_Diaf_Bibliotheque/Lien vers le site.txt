@@ -1,0 +1,2 @@
+bibliotheque-diaf-bernardin.000webhostapp.com     =   lien vers le site en lui même
+files.000webhost.com                              =   lien vers les fichiers du site login en image dans le dossier
